@@ -20,3 +20,4 @@ $ \[\e[0m\] '
 alias prp="pipenv run python3"
 alias rma="sudo rm -R"
 alias chmodarwx="sudo chmod -R a+rwx ./"
+alias twineupd="python -m twine upload dist/* --skip-existing"
